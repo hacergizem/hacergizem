@@ -6,10 +6,9 @@ Frontend Developer
 
 I graduated from the Computer Engineering department. I've been interested in Frontend Development for almost two year. Every day, I dedicate myself to learning new technologies and continuously improving my skills.
 
-*   🌍  I'm based in Üsküdar, İstanbul
+*   🌍  I'm based in İstanbul
 *   🖥️  See my portfolio at [hacergizem.com](http://hacergizem.com)
 *   ✉️  You can contact me at [gizemgk654@gmail.com](mailto:gizemgk654@gmail.com)
-*   🚀  I'm currently working on [Macellan](http://macellan.net/)
 
 ### Skills 
 <p align="left">
